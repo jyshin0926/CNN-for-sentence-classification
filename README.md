@@ -1,6 +1,8 @@
 # CNN_Project
 
-CNN for Sentence Classification (Naver Movie sentiment analysis)
+CNN for Sentence Classification (Naver Movie sentiment analysis)<br>
+Train convolutional network for sentiment analysis. Based on "Convolutional Neural Networks for Sentence Classification" by Yoon Kim, [link](https://arxiv.org/pdf/1408.5882v2.pdf).
+
 * language : python
 * OS environment : macOS Catalina
 * IDE : Jupyter Notebook
