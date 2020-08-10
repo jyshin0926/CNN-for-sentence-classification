@@ -17,4 +17,9 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 6. make cnn model with word2vec model with CNN_word2vec_mecab300dim.py file in 'mecab_0.7993_val_accuravy_py' folder
 7. you can use 'stopwords.xlsx' in 'prep for modeling' folder for removing stop words (in my case, there was no big difference in val_accuracy(0.7984))
 
-8. if you want to see my other trials for modeling with some tuning in word2vec dimension(200/300),base_tokenizer(mecab/okt) and stopwords removal(o/x), see other ipynb files
+8. if you want to see my other trials for modeling with some tuning in word2vec dimension(200/300),base_tokenizer(mecab/okt) and stopwords removal(o/x), see other ipynb files<br>
+
+**update model**
+val_accuracy : 0.8437 <br>
+val_loss : 0.4047
+
