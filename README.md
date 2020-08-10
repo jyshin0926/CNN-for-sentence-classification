@@ -15,4 +15,4 @@ CNN for Sentence Classification (Naver Movie sentiment analysis)
 6. make cnn model with word2vec model
 7. you can use 'stopwords.xlsx' in 'prep for modeling' folder for removing stop words (in my case, there was no big difference in val_accuracy(0.7984))
 
-8. if you want to see my other trials for make model with some changes in word2vec dimension/base_tokenizer/stopwords removal, see files in 'okt models files' folder or 'mecab model files' folder
+8. if you want to see my other trials for make model with some changes in word2vec dimension(200/300),base_tokenizer(mecab/okt) and stopwords removal(o/x), see other ipynb files
