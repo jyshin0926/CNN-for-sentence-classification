@@ -20,11 +20,13 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 8. if you want to see my other trials for modeling with some tuning in word2vec dimension(200/300),base_tokenizer(mecab/okt) and stopwords removal(o/x), see other ipynb files<br>
 
 **updated model**<br>
-2020.08.10 preprocessing in test sentences [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update.ipynb)<br>
+2020.08.10<br> 
+preprocessing in test sentences [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update.ipynb)<br>
 val_accuracy : 0.8437 <br>
 val_loss : 0.4047<br>
 
-2020.08.11 adding l2 regularization [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update_0.8468.ipynb)<br>
+2020.08.11<br>
+adding l2 regularization [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update_0.8468.ipynb)<br>
 val_accuracy : 0.8468 <br>
 val_loss : 0.4815
 
