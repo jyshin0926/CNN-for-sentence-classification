@@ -20,6 +20,12 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 8. if you want to see my other trials for modeling with some tuning in word2vec dimension(200/300),base_tokenizer(mecab/okt) and stopwords removal(o/x), see other ipynb files<br>
 
 **updated model**<br>
+2020.08.10<br>
 val_accuracy : 0.8437 <br>
 val_loss : 0.4047
+
+2020.08.11<br>
+val_accuracy : 0.8468
+val_loss : 0.4815
+
 
