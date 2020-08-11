@@ -25,7 +25,7 @@ val_accuracy : 0.8437 <br>
 val_loss : 0.4047
 
 2020.08.11<br>
-val_accuracy : 0.8468
+val_accuracy : 0.8468 <br>
 val_loss : 0.4815
 
 
