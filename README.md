@@ -21,7 +21,7 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 
 **updated model**<br>
 2020.08.10<br> 
-preprocessing in test sentences [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update.ipynb)<br>
+preprocessing train/test sentences with mecab[click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update.ipynb)<br>
 val_accuracy : 0.8437 <br>
 val_loss : 0.4047<br>
 
