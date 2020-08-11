@@ -12,7 +12,7 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 1. clone repository to your local computer
 2. recommend to convert file extension to .ipynb
 3. recommend to execute in jupyter notebook or google colaboratory environment
-4. you can use raw ratings.txt or ratings_test.txt and ratings_test.txt in 'prep for modeling' folder
+4. you can use raw ratings.txt or ratings_train.txt and ratings_test.txt in 'prep for modeling' folder
 5. make word2vec model first with tokenize_mecab_300dim_w_sw.py file in 'mecab_0.7993_val_accuravy_py' folder
 6. make cnn model with word2vec model with CNN_word2vec_mecab300dim.py file in 'mecab_0.7993_val_accuravy_py' folder
 7. you can use 'stopwords.xlsx' in 'prep for modeling' folder for removing stop words (in my case, there was no big difference in val_accuracy(0.7984))
@@ -22,9 +22,9 @@ Train convolutional network for sentiment analysis. Based on "Convolutional Neur
 **updated model**<br>
 2020.08.10<br>
 val_accuracy : 0.8437 <br>
-val_loss : 0.4047
+val_loss : 0.4047<br>
 
-2020.08.11<br>
+2020.08.11 [click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/CNN_word2vec_mecab300_update_0.8468.ipynb)<br>
 val_accuracy : 0.8468 <br>
 val_loss : 0.4815
 
