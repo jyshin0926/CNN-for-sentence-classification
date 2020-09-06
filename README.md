@@ -30,4 +30,7 @@ adding l2 regularization ([click to see the code](https://github.com/jyshin0926/
 val_accuracy : 0.8468 <br>
 val_loss : 0.4815<br>
 
+adding embedding weights with word2vec model ([click to see the code](https://github.com/jyshin0926/CNN-for-sentence-classification/blob/master/update_CNN_word2vec_mecab300_0.8539.ipynb))<br>
+val_accuracy : 0.8539<br>
+val_loss : 0.4464<br>
 
